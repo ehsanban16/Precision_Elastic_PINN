@@ -1,4 +1,4 @@
-# Elsatic Precision PINN
+# Elsatic precision PINN
 
 Precision PINN is a Pytorch-based Physics-Informed Neural Network (PINN) implementation designed for solving differential equations with high accuracy. This repository provides tools and examples for applying PINNs to various scientific and engineering problems.
 
