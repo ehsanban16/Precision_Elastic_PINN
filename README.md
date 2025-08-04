@@ -1,7 +1,7 @@
 # Elsatic precision PINN
 
 Precision PINN is a Pytorch-based Physics-Informed Neural Network (PINN) implementation designed for solving differential equations with high accuracy. Application to singularity in corners during clamped stretch test:
-<img src="clamped_stretch.png" alt="drawing" width="200"/>
+<img src="clamped_stretch.png" alt="drawing" width="600"/>
 
 
 *Output from elastic pinn*
